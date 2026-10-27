@@ -12,7 +12,7 @@ public class Driver {
     String input;
     Scanner scnr = new Scanner(System.in);
 
-    public void main(String[] args) {
+    public static void main(String[] args) {
     	Scanner scnr = new Scanner(System.in);
     	
 
